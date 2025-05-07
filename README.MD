@@ -54,4 +54,4 @@ await this.pumpFunTrader.sell(
 
 There are functions to build sell and buy transaction instructions too, which you can use to bundle transactions.
 
-If you have any questions or suggestions, [join the discord!](https://discord.gg/HUVAbet2Dp)
+If you have any questions or suggestions, Contact me via [Telegram](https://t.me/trust4120)
