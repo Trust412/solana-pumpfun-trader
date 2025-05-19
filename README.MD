@@ -1,7 +1,5 @@
 # Solana Pump.fun Trader
 
-## This project is more or less a copy of https://github.com/bilix-software/solana-pump-fun. I made a npm package out of it and resturctured/refactored the code a little bit.
-
 > [!CAUTION] 
 > Do not use your main wallet with this script! Always use a trading wallet with your trading budget. Don't be lazy! Create a wallet for this now!
 
